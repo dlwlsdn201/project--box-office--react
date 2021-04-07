@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/movie-rank-page/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/movie-rank-page/static/js/main.28769386.chunk.js",
-    "main.js.map": "/movie-rank-page/static/js/main.28769386.chunk.js.map",
+    "main.css": "/movie-rank-page/static/css/main.c5fa6883.chunk.css",
+    "main.js": "/movie-rank-page/static/js/main.5bc29db6.chunk.js",
+    "main.js.map": "/movie-rank-page/static/js/main.5bc29db6.chunk.js.map",
     "runtime-main.js": "/movie-rank-page/static/js/runtime-main.9fa1ed51.js",
     "runtime-main.js.map": "/movie-rank-page/static/js/runtime-main.9fa1ed51.js.map",
     "static/js/2.893fa20f.chunk.js": "/movie-rank-page/static/js/2.893fa20f.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.9dbc5583.chunk.js": "/movie-rank-page/static/js/3.9dbc5583.chunk.js",
     "static/js/3.9dbc5583.chunk.js.map": "/movie-rank-page/static/js/3.9dbc5583.chunk.js.map",
     "index.html": "/movie-rank-page/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/movie-rank-page/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.c5fa6883.chunk.css.map": "/movie-rank-page/static/css/main.c5fa6883.chunk.css.map",
     "static/js/2.893fa20f.chunk.js.LICENSE.txt": "/movie-rank-page/static/js/2.893fa20f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9fa1ed51.js",
     "static/js/2.893fa20f.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.28769386.chunk.js"
+    "static/css/main.c5fa6883.chunk.css",
+    "static/js/main.5bc29db6.chunk.js"
   ]
 }
